@@ -4,7 +4,7 @@
 ![poggin-2](https://user-images.githubusercontent.com/54542639/118213363-a2506e80-b422-11eb-8371-4794d98c98c7.png)
 ![twitter redesign](https://user-images.githubusercontent.com/54542639/118338894-2f033700-b4cc-11eb-9691-bf3636e80246.png)
 
-![Untitled-1](https://user-images.githubusercontent.com/54542639/118223313-e1d48600-b435-11eb-8ed4-baf17ec765a2.jpg)
+
 
 
 ![Untitled-1](https://user-images.githubusercontent.com/54542639/118200969-41696c00-b40b-11eb-953f-f975c7e5b691.jpg)
