@@ -1,6 +1,6 @@
 
 # Graphic-Design-Portfolio
-*Note* All logos and art showcased in this was made by me, with only the use of A reference here and there. In some cases, I redesigned an existing logo as a way to show that I can use illustrator proficiently. 
+*Note*:  All logos and art showcased in this was made by me, with only the use of A reference here and there. In some cases, I redesigned an existing logo as a way to show that I can use illustrator proficiently. 
 
 ![cool-1](https://user-images.githubusercontent.com/54542639/118201797-2dbf0500-b40d-11eb-8ade-7a9aaa08d356.png)
 ![poggin-2](https://user-images.githubusercontent.com/54542639/118213363-a2506e80-b422-11eb-8371-4794d98c98c7.png)
